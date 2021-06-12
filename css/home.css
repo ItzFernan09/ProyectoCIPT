@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,300&display=swap');
+
+@import url(home.css);
+@import url(quienes-somos.css);
+
+:root{
+    --bk-blanco: blue;
+    --fuente-Open-Sans: 'Open Sans', sans-serif;
+    --fuente-weig-grand: 300;
+}
